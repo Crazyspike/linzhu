@@ -20,7 +20,7 @@ I research scalable interactive systems for visualization and analysis. My syste
 <picture>
   <source srcset='/images/dominik_berlin.webp' type='image/webp' />
   <img
-    src='https://crazyspike.github.io/linzhu/images/dominik_berlin.jpg'
+    src='https://github.com/Crazyspike/linzhu/tree/master/images/dominik_berlin.jpg'
     alt='Crazyspike'/>
 </picture>
 
