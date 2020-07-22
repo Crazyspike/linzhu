@@ -21,7 +21,7 @@ I research scalable interactive systems for visualization and analysis. My syste
   <source srcset='/images/dominik_berlin.webp' type='image/webp' />
   <img
     src='/images/dominik_berlin.jpg'
-    alt='Dominik Moritz'/>
+    alt='Crazyspike'/>
 </picture>
 
 {:.no-list}
